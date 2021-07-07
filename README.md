@@ -15,7 +15,7 @@ or not.
 
 ## Features
 - To build an accurate model for implementation using inbuild algorithm.
-- Add data of student into database, so that get attentive index of that specific person.
+- Add data of student into database, to know attentive index of that specific person during implementation.
 - Implement model on the recorded videos and web cam input.
 
 ## Application
