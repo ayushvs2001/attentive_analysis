@@ -19,6 +19,6 @@ or not.
 - Implement model on the recorded videos and web cam input.
 
 ## Application
-- Address student attentiveness.
+- Address students attentiveness.
 - Proctoring for online exams.
 - Attendance of students.
